@@ -11,6 +11,9 @@
 <br><br>
 
 <h2 align="center">Technologies </h2>
+<p align="center">
+   <img src="html-5.png" width="50" height="50" /> &nbsp; &nbsp;
+ </p>
 
 <br/>
 <h2 align="center">Contact me</h2>
