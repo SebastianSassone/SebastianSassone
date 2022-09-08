@@ -2,10 +2,7 @@
 <h1 align="center">Welcome to my profile!</h1>
 <br/>
 
-<div>
  <p align="center">Hi I'm Sebastián</p>
- <img align="center" scr="images/Diseño sin título.png">
-</div>
 <br/>
   
 <p align="center"> 
