@@ -19,9 +19,13 @@
 
   <h2 align="center">Technologies</h2>
 <p align="center">
-   <img src="images/javascript.png" width="120" height="73"/>
-   <img src="images/html-5.png" width="70" height="70" />&nbsp; &nbsp;
-   <img src="images/css-3.png" width="70" height="70" />
+  <img src="images/logohtml.png" width="70" height="70" />
+<img src="images/logocss.png" width="70" height="70" />
+<img src="images/logojs.png" width="70" height="70" />
+<img src="images/logogit.png" width="70" height="70" />
+<img src="images/logomongo.png" width="70" height="70" />
+<img src="images/logonode.png" width="70" height="70" />
+<img src="images/logoreact.png" width="70" height="73" />
 </p>
 <br/>
 
