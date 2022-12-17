@@ -1,4 +1,3 @@
-
 <h1 align="center">Welcome to my profile!</h1>
 <br/>
 
@@ -19,13 +18,12 @@
 
   <h2 align="center">Technologies</h2>
 <p align="center">
-  <img src="images/logohtml.png" width="70" height="70" />
-<img src="images/logocss.png" width="70" height="70" />
-<img src="images/logojs.png" width="70" height="70" />
-<img src="images/logogit.png" width="70" height="70" />
-<img src="images/logomongo.png" width="70" height="70" />
-<img src="images/logonode.png" width="70" height="70" />
-<img src="images/logoreact.png" width="70" height="73" />
+  <img src="images/logohtml.png" width="68" height="71" />&nbsp;
+<img src="images/logocss.png" width="68" height="70" />&nbsp; 
+<img src="images/logojs.png" width="68" height="70" />&nbsp;
+<img src="images/logogit.png" width="68" height="70" />&nbsp;
+<img src="images/logomongo.png" width="68" height="70" />&nbsp;
+<img src="images/logonode.png" width="63" height="70" />&nbsp;
+<img src="images/logoreact.png" width="68" height="62" />
 </p>
 <br/>
-
