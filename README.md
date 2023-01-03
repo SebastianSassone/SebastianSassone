@@ -5,7 +5,7 @@
 <br/>
   
 <p align="center"> 
-  <font face="courier new">I am sutudent of University Programmer Analyst and software developer trainee. I'm a Software Developer with an experience in Development with HTML, CSS and Java Script.</font>
+  <font face="courier new">I am sutudent of University Programmer Analyst and software developer trainee. I'm a Software Developer with an experience in Development with HTML, CSS, Java Script, Git, Node.JS, MongoDB and React.JS.</font>
 </p>
 
 <br><br>
