@@ -28,6 +28,6 @@
 <img src="images/logojava.png" width="68" height="70" />&nbsp;
 <img src="images/logomysql.png" width="68" height="70" />&nbsp;
 <img src="images/logocobol.png" width="68" height="70" />&nbsp;
-<img src="images/logodb2.png" width="68" height="70" 
+<img src="images/logodb2.png" width="68" height="65" 
 </p>
 <br/>
