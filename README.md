@@ -25,9 +25,9 @@
 <img src="images/logomongo.png" width="68" height="70" />&nbsp;
 <img src="images/logonode.png" width="63" height="70" />&nbsp;
 <img src="images/logoreact.png" width="68" height="62" />&nbsp;
-<img src="images/logojava.png" width="68" height="62" />&nbsp;
-<img src="images/logomysql.png" width="68" height="62" />&nbsp;
+<img src="images/logojava.png" width="68" height="70" />&nbsp;
+<img src="images/logomysql.png" width="68" height="70" />&nbsp;
 <img src="images/logocobol.png" width="68" height="70" />&nbsp;
-<img src="images/logodb2.png" width="68" height="62" 
+<img src="images/logodb2.png" width="68" height="70" 
 </p>
 <br/>
