@@ -31,3 +31,7 @@
 <img src="images/logodb2.png" width="68" height="65" 
 </p>
 <br/>
+<div>
+ [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/apiSebastianSassoneanuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+</div>
+
